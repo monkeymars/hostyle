@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Gotham';
+  src: url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Book.eot');
+  src: url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
+    url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Book.woff2') format('woff2'),
+    url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Book.woff') format('woff'),
+    url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Book.svg#Gotham-Book') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Bold.eot');
+  src: url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Bold.eot?#iefix') format('embedded-opentype'),
+    url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Bold.woff2') format('woff2'),
+    url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Bold.woff') format('woff'),
+    url('https://greenhouseconnect.co/wp-content/themes/uncode-child/fonts/Gotham-Bold.svg#Gotham-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
